@@ -7,7 +7,7 @@ layout: home
 
 Test
 
-{% highlight coffee %}
+{% highlight coffeescript %}
 
 fs       = require 'fs'
 readline = require 'readline'
