@@ -1,5 +1,3 @@
----
-layout: home
----
+# Reality Computing
 
-Test
+I have no idea what I'm doing
