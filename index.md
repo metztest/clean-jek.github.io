@@ -1,11 +1,9 @@
 ---
-title: Test title
+title: My site
 ---
 
-I have no idea what I'm doing
+This is a GitHub Pages site
 
 {% include test.html %}
 
-testing includes
-
-<ins>testing underlining</ins>
+It's so cool!
